@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T14:39:59.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="DafeipwsJeOVUvlrL2Eh" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T22:49:34.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="xg_9_y4RJvOufGeiPts1" version="21.7.1" type="github">
   <diagram name="Sivu-1" id="dVFOmkE58-xk7HbGH26S">
-    <mxGraphModel dx="2074" dy="1097" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1658" dy="893" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,10 +175,10 @@
         <mxCell id="BAGCddAombIkHbBR_In9-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;\(f_s=3000\) Hz&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=20;" parent="1" vertex="1">
           <mxGeometry x="285" y="285" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="apvfs4B9VIvOp0PBdXVJ-1" value="&lt;font color=&quot;#009999&quot; style=&quot;font-size: 20px;&quot;&gt;$$e_2(n)$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="apvfs4B9VIvOp0PBdXVJ-1" value="&lt;font color=&quot;#009999&quot; style=&quot;font-size: 20px;&quot;&gt;$$e_2(n)$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="785" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7A0JXXa-Py3rXMK70Vjk-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Get next second microphone signal block from audio interface&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7A0JXXa-Py3rXMK70Vjk-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Get next control microphone signal block from audio interface&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="130" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
